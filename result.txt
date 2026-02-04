@@ -1,3 +1,4 @@
+
 === Linux 학습 일지 웹사이트 ===
 작성일: 2026. 02. 04. (수) 12:42:44 KST
 
@@ -20,3 +21,4 @@ drwxrwxr-x 6 user1 user1 4096  2월  4 12:34 ..
       Tasks: 3 (limit: 4542)
      Memory: 4.2M
         CPU: 42ms
+
